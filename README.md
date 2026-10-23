@@ -3305,7 +3305,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Generate finished AI videos and images from a prompt or a photo.
 - [Doseedo](https://doseedo.com/mcp) `https://api.doseedo.com/mcp`
   [![Doseedo MCP connector](https://glama.ai/mcp/connectors/com.doseedo/doseedo/badges/score.svg)](https://glama.ai/mcp/connectors/com.doseedo/doseedo)
-  🔓 🔐 - Music and audio tools for AI agents: 50+ AI instruments play your MIDI, plus sound effects, stem separation, audio to MIDI, mixing and Logic/Ableton sessions.
+  🔓 🔐 - Music and audio for AI agents: 50+ AI instruments play your MIDI, plus sound effects, stems and DAW sessions.
 - [eroq](https://eroq.ai/mcp) `https://eroq.ai/mcp`
   [![eroq MCP connector](https://glama.ai/mcp/connectors/ai.eroq/eroq/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eroq/eroq)
   🔐 - Generate videos, images, voices and songs on Seedance, Kling, Veo and eroq's own uncensored engines.
